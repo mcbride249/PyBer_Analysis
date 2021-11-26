@@ -55,16 +55,23 @@ The purpose of this analysis was to use pandas to create a visual summary of the
 
 **##General**
 
-Image 1 – PyBer Data Summary
+**Image 1 – PyBer Data Summary**
 
 ![Image 1 - PyBer Data Summary](https://user-images.githubusercontent.com/92111396/143509091-26c7f5fd-33a4-449e-b966-0122dc45224c.PNG)
 https://github.com/mcbride249/PyBer_Analysis/blob/main/Analysis/Image%201%20-%20PyBer%20Data%20Summary.PNG
 
 
-Image 2 - PyBer Fare Summary
+**Image 2 - PyBer Fare Summary**
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/92111396/143509097-b7c23cb9-4199-450a-81de-42a9f51874ba.png)
 https://github.com/mcbride249/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png
+
+
+**Image 3 - PyBer Resampled WeeklyData**
+
+![Image 3 - PyBer Resampled Weekly Data](https://user-images.githubusercontent.com/92111396/143509589-8529867d-74be-4069-bd0b-161e6c2ebc0c.PNG)
+
+https://github.com/mcbride249/PyBer_Analysis/blob/main/Analysis/Image%203%20-%20PyBer%20Resampled%20Weekly%20Data.PNG
 
 
 From the data that was analysed we were able to make a number of statements regarding the differences in ride-sharing trends between the different city-type. The total number of rides, total number of drivers, and overall fare brought in tended to be higher in the urban areas and decreased as one moved out to the suburbs and rural city types. However, the average fare per ride and average fare per driver followed the opposite trend and both were lower in the urban city type and trended upwards and as one moved from the urban area to suburban and rural areas. 
