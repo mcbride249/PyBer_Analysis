@@ -57,9 +57,17 @@ The purpose of this analysis was to use pandas to create a visual summary of the
 
 Image 1 – PyBer Data Summary
 
+![Image 1 - PyBer Data Summary](https://user-images.githubusercontent.com/92111396/143509091-26c7f5fd-33a4-449e-b966-0122dc45224c.PNG)
+
+
+Image 2 - PyBer Fare Summary
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/92111396/143509097-b7c23cb9-4199-450a-81de-42a9f51874ba.png)
+
+
 From the data that was analysed we were able to make a number of statements regarding the differences in ride-sharing trends between the different city-type. The total number of rides, total number of drivers, and overall fare brought in tended to be higher in the urban areas and decreased as one moved out to the suburbs and rural city types. However, the average fare per ride and average fare per driver followed the opposite trend and both were lower in the urban city type and trended upwards and as one moved from the urban area to suburban and rural areas. 
 
-These trends show that the urban area is the main point of business for PyBer as the majority of it’s rides and income are generated here. Furthermore, we can extrapolate from the low average fare per ride, that these trips are usually short in duration, although there are more of them.  
+These trends, as illustrated in Image 2 (PyBer Fare Summary) show that the urban area is the main point of business for PyBer as the majority of it’s rides and income are generated here. Furthermore, we can extrapolate from the low average fare per ride, that these trips are usually short in duration, although there are more of them.  
 
 The rides to driver ratio for each city type are urban: 0.67, suburban: 1.2, and rural: 1.6, which shows that while there may not be more demand in terms of the number of rides for the suburban and rural areas, they are underserviced by drivers by over fifty percent when compared to the urban areas. 
 
